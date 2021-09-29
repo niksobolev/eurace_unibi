@@ -89,7 +89,7 @@ executed correctly.
 
 ## Further Links:
 
-1. [http://www.wiwi.uni-bielefeld.de/lehrbereiche/vwl/etace/Eurace_Unibi/](http://www.wiwi.uni-bielefeld.de/lehrbereiche/vwl/etace/Eurace_Unibi/)
+1. [https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/etace/eurace@unibi/etace-virtual-appliance/](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/etace/eurace@unibi/etace-virtual-appliance/)
 2. [https://pub.uni-bielefeld.de/data/2900767](https://pub.uni-bielefeld.de/data/2900767)
 3. [http://www.flame.ac.uk](http://www.flame.ac.uk)
 
