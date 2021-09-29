@@ -19,6 +19,9 @@ cd xparser
 ```
 ./main 10 ./its/0_initial.xml
 ```
+#### Or go to eurace_extension folder to run the model automatically.
+Use OFAT_model_runner and OFAT_results_processing scripts to make OFAT experiments.
+Use eurace_model_runner and results_processing scripts to perform experiments with the model.
 
 # The Eurace@Unibi Model
 
