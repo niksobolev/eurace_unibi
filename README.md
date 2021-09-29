@@ -1,3 +1,25 @@
+# The Eurace@Unibi: Easy start
+
+#### 1. Install FLAME
+```
+./scripts/install_flame.sh
+```
+
+#### 2. Generate a simulation code
+```
+cd xparser
+./xparser ../eurace_model.xml
+```
+
+#### 3. Replace `LIBMBOARD_DIR` in Makefile from `/usr/local` to `$(PWD)/libmboard`
+#### 4. Run ```make```
+#### 5. Make sure a file with initial parameters is located in <model>/its
+
+#### 6. Run the model
+```
+./main 10 ./its/0_initial.xml
+```
+
 # The Eurace@Unibi Model
 
 This is the source code of the Eurace@Unibi Model.
